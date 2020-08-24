@@ -11,6 +11,8 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
+freeze==3.0
+h5py==2.10.0
 idna==2.9
 importlib-metadata==1.6.0
 ipykernel==5.2.1
@@ -27,6 +29,7 @@ jupyter-server==0.1.1
 jupyterlab==2.1.1
 jupyterlab-pygments==0.1.1
 jupyterlab-server==1.1.1
+Keras==2.4.3
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.2
@@ -51,7 +54,9 @@ pyrsistent==0.16.0
 pytest==5.4.1
 python-dateutil==2.8.1
 pytz==2020.1
+pywin32==228
 pywinpty==0.5.7
+PyYAML==5.3.1
 pyzmq==19.0.0
 requests==2.23.0
 scikit-learn==0.23.1
