@@ -95,7 +95,7 @@ tqdm==4.46.1
 traitlets==4.3.3
 update==0.0.1
 update-check==0.0.7
-urllib3==1.25.9
+urllib3==1.26.5
 voila==0.1.21
 wcwidth==0.1.9
 webencodings==0.5.1
